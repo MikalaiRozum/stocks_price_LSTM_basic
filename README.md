@@ -1,1 +1,2 @@
-# stocks_price_LSTM_basic
+# in progress....
+At the moment, the model looks well trained but predicts unexpected results in the future.
